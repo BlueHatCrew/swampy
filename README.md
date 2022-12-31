@@ -1,2 +1,0 @@
-# swampy
-Sherk's Swamp
